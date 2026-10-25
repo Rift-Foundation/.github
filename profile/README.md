@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Rift - Open the Rift. Level up your server." width="100%" />
+<img src="./banner.png" alt="Rift - Open the Rift. Level up your server." width="100%" />
 
 <br />
 
