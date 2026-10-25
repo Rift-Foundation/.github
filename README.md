@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./logo.png" alt="Rift Foundation" width="140" />
+<img src="banner.png" alt="Rift - Open the Rift. Level up your server." width="100%" />
 
-# Rift Foundation
+<br />
 
 **Polished, reliable Minecraft plugins, built by server owners for server owners.**
 
@@ -38,7 +38,7 @@ Questions, bugs, or ideas? Reach out through our Discord server.
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Join%20our-Discord-9ADBFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1B33)](https://discord.gg/Fm4VvaachU)
+[![Discord](https://img.shields.io/badge/Join%20our-Discord-9ADBFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1B33)](https://discord.gg/)
 
 </div>
 
