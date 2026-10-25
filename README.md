@@ -1,4 +1,20 @@
+<div align="center">
+
+<img src="assets/logo.png" alt="Rift Foundation" width="140" />
+
 # Rift Foundation
+
+**Polished, reliable Minecraft plugins, built by server owners for server owners.**
+
+![Minecraft](https://img.shields.io/badge/Minecraft-Plugins-9ADBFF?style=for-the-badge&labelColor=0B1B33)
+![Platform](https://img.shields.io/badge/Platform-Paper-9ADBFF?style=for-the-badge&labelColor=0B1B33)
+![Status](https://img.shields.io/badge/Status-Active-9ADBFF?style=for-the-badge&labelColor=0B1B33)
+
+</div>
+
+---
+
+## About
 
 Rift Foundation is a Minecraft plugin development team focused on building polished, reliable tools for server owners.
 
@@ -6,9 +22,11 @@ We run and manage Minecraft communities ourselves, so we know what servers actua
 
 ## What to Expect
 
-- **Modern color support:** hex codes, MiniMessage, and other color formats work out of the box.
-- **Consistent quality:** all our plugins share the same structure and style, so once you know one, you know them all.
-- **Server-owner mindset:** features are built around what communities actually need.
+| | |
+|---|---|
+| ⚡ **Lightweight & stable** | Built to run smoothly and stay out of the way of your server's performance. |
+| ✨ **Consistent quality** | All our plugins share the same structure and style, so once you know one, you know them all. |
+| 🛠️ **Server-owner mindset** | Features are built around what communities actually need. |
 
 ## Our Goal
 
@@ -17,3 +35,15 @@ To make powerful features simple to set up, simple to tweak, and a pleasure to r
 ## Support
 
 Questions, bugs, or ideas? Reach out through our Discord server.
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Join%20our-Discord-9ADBFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1B33)](https://discord.gg/Fm4VvaachU)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Made with care by Rift Foundation</sub>
+</div>
