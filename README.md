@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Rift Foundation" width="140" />
+<img src="./logo.png" alt="Rift Foundation" width="140" />
 
 # Rift Foundation
 
