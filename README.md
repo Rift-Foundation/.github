@@ -38,7 +38,7 @@ Questions, bugs, or ideas? Reach out through our Discord server.
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Join%20our-Discord-9ADBFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1B33)](https://discord.gg/)
+[![Discord](https://img.shields.io/badge/Join%20our-Discord-9ADBFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1B33)](https://discord.gg/Fm4VvaachU)
 
 </div>
 
