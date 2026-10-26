@@ -22,6 +22,7 @@ We run and manage Minecraft communities ourselves, so we know what servers actua
 
 ## What to Expect
 
+| | |
 |-|-|
 | ⚡ **Lightweight & stable** | Built to run smoothly and stay out of the way of your server's performance. |
 | ✨ **Consistent quality** | All our plugins share the same structure and style, so once you know one, you know them all. |
